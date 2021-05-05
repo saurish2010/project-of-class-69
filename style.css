@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    margin: 50px;
+}
+
+.links{
+    position: fixed;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    
+}
+.links:hover{
+    font-size: 25px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.menu{
+    position: fixed;
+}
+#Contact us{
+    margin-top:50px;
+    
+}
+.contact_1{
+    display: inline;
+    
+}
+#details{
+    display: inline;
+}
